@@ -17,6 +17,6 @@ jangan lupa tambahkan hasil screenshoot web di dalam file
 
 ### Tambahkan identitas dasar di sini: 
 
-Nama  :
+Nama  : Eben haezer P
 <br>
-NIM   :
+NIM   : 119140010
